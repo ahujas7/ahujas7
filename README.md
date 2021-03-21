@@ -24,6 +24,6 @@ I like to play basketball 🏀, watch movies 🎥, and lift weights 🏋️
   - An interactive Mandelbrot set fractal built with Java's custom graphics classes 
   - Quadratic and cubic Bézier Curve models made with Java's AWT 
 
-📚 I'm looking to expand my knowledge by learning about AI, ML, and data science 
+📚 I'm looking to expand my knowledge by learning about ML and data science 
 
 📫 Contact me at: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
