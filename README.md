@@ -1,4 +1,4 @@
-### Hey, I'm Saksham Ahuja! 👋
+### Hey, I'm Saksham! 👋
 
 <!--
 **ahujas7/ahujas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,6 @@ I like to play basketball 🏀, watch movies 🎥, and lift weights 🏋️
   - An interactive Mandelbrot set fractal built with Java's custom graphics classes 
   - Quadratic and cubic Bézier Curve models made with Java's AWT 
 
-📚 I'm looking to expand my knowledge by learning about ML and data science 
+📚 I'm looking to expand my knowledge by learning about DL
 
-📫 Contact me at: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
+📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
