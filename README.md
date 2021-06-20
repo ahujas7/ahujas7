@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujas7&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=midnight-purple)
 -->
 
 I am currently a first year student at the University of Waterloo studying Mechatronics Engineering! 🤖
@@ -27,6 +29,3 @@ I like to play basketball 🏀, watch movies 🎥, and lift weights 🏋️
 📚 I'm currently taking a Deep Learning and Nueral Networks course by DeepLearning.AI
 
 📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
-
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujas7&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=midnight-purple)
-
