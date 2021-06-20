@@ -28,5 +28,5 @@ I like to play basketball 🏀, watch movies 🎥, and lift weights 🏋️
 
 📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujas7&count_private=true&show_icons=true)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujas7&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=midnight-purple)
 
