@@ -26,6 +26,6 @@ I like to play basketball 🏀, watch movies 🎥 and lift weights 🏋️.
   - An interactive Mandelbrot set fractal built with Java's custom graphics classes 
   - Quadratic and cubic Bézier Curve models made with Java's AWT 
 
-📚 I'm currently taking a Deep Learning and Nueral Networks course by DeepLearning.AI
+📚 I'm currently taking a Deep Learning and Nueral Networks course by DeepLearning.AI.
 
-📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja
+📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja.
