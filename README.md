@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 I am currently a first year student at the University of Waterloo studying Mechatronics Engineering! 🤖
 
-I like to play basketball 🏀, watch movies 🎥, and lift weights 🏋️
+                   🏀             🎥              🏋️
+I like to play basketball, watch movies and lift weights.
 
 🔭 Some of my past projects include: 
   - A bank account GUI created using Java's AWT and Swing toolkits 
