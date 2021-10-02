@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujas7&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=midnight-purple)
 -->
 
-I am currently a first year student at the University of Waterloo studying Mechatronics Engineering! 🤖
+I am currently a second year student at the University of Waterloo studying Mechatronics Engineering! 🤖
 
 I like to play basketball 🏀, watch movies 🎥 and lift weights 🏋️.
 
 🔭 Some of my past projects include: 
-  - A bank account GUI created using Java's AWT and Swing toolkits 
-  - An interactive Mandelbrot set fractal built with Java's custom graphics classes 
-  - Quadratic and cubic Bézier Curve models made with Java's AWT 
-
-📚 I'm currently taking a Deep Learning and Nueral Networks course by DeepLearning.AI.
+  • StringForm: A web application developed with Node.js, Express.js, MongoDB, Python, and Flask to create string art
+  • Meal Builder: A macronutrient summation tool built with Python and the Selenium WebDriver API which scrapes nutrition data to create meal plans
+  • Fashion MNIST: A simple CNN created with TensorFlow to classify 60 000 articles of clothing 
 
 📫 Contact me: saksham.ahuja@uwaterloo.ca or www.linkedin.com/in/sakshamahuja.
